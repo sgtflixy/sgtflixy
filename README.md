@@ -2,7 +2,7 @@
 
 I am a passionate CS Student who loves using python, html and C#
 
-![sgtflixy's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sgtflixy's Stats](https://github-readme-stats.vercel.app/api?username=sgtflixy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
