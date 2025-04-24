@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm sgtflixy! 👋
 
-<!--
-**sgtflixy/sgtflixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate CS Student who loves using python, html and C#
 
-Here are some ideas to get you started:
+![sgtflixy's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently developing a lot of projects in python. you should follow along on my github!
+- 📝 I work on a lot of projects at once, sometimes not even being able to keep up with them all yet somehow manage it
+- 🌐 Moderator in 15+ servers
+- ✍️ Content creator over at tiktok [@feds.wtf](https://tiktok.com/@feds.wtf)
+
+
+## Programming Skills
+[![My Skills](https://skillicons.dev/icons?i=py,html,c#)](https://skillicons.dev)
+
+## 🌱 Currently Learning
+
+- Further learning about the discord API and more
+
