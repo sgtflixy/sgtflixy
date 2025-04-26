@@ -13,8 +13,8 @@ I am a passionate CS Student who loves using python, html and C#
 
 ## Projects
 
-- Infiltra FW
-- - [Maintainer of site, discord server and discord bot](https://infiltra.xyz)
+### Infiltra FW
+- [Maintainer of site, discord server and discord bot](https://infiltra.xyz)
 
 ## Programming Skills
 [![My Skills](https://skillicons.dev/icons?i=py,html,c#)](https://skillicons.dev)
