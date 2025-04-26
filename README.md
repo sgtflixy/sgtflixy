@@ -22,4 +22,5 @@ I am a passionate CS Student who loves using python, html and C#
 ## 🌱 Currently Learning
 
 - Further learning about the discord API and more
+- Learning NextJS / Typescript
 
