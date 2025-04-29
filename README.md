@@ -17,7 +17,7 @@ I am a passionate CS Student who loves using python, html and C#
 - [Maintainer of site, discord server and discord bot](https://infiltra.xyz)
 
 ## Programming Skills
-[![My Skills](https://skillicons.dev/icons?i=py,html,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,csharp)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
