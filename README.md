@@ -12,8 +12,6 @@ I am a passionate CS Student who loves using python, html and C#
 - 🌐 Moderator in 15+ servers
 - ✍️ Content creator over at tiktok [@feds.wtf](https://tiktok.com/@feds.wtf)
 
-![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/languages.svg?token=GHSAT0AAAAAADCI5M6456OU7ACWIDQJRVNW2BCKCRA#gh-dark-mode-only)
-
 ## Projects
 
 #### Infiltra FW
@@ -21,6 +19,8 @@ I am a passionate CS Student who loves using python, html and C#
 
 ## Programming Skills
 [![My Skills](https://skillicons.dev/icons?i=py,html,cs)](https://skillicons.dev)
+
+![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/languages.svg?token=GHSAT0AAAAAADCI5M6456OU7ACWIDQJRVNW2BCKCRA#gh-dark-mode-only)
 
 ## 🌱 Currently Learning
 
