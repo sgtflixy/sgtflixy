@@ -28,4 +28,4 @@ I am a passionate CS Student who loves using python, html and C#
 - Learning NextJS / Typescript
 
 ## Profile stats:
-![Visitor Badge](https://profile-counter.glitch.me/9dl/count.svg)
+![Visitor Badge](https://profile-counter.glitch.me/sgtflixy/count.svg)
