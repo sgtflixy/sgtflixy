@@ -27,3 +27,5 @@ I am a passionate CS Student who loves using python, html and C#
 - Further learning about the discord API and more
 - Learning NextJS / Typescript
 
+## Profile stats:
+![Visitor Badge](https://profile-counter.glitch.me/9dl/count.svg)
