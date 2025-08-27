@@ -31,3 +31,4 @@ I am a passionate CS Student who loves using python, html and C#
 
 ## Profile stats:
 ![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADHHAMZUI4RJYJJ7BR56EQT22FPJBZA#gh-dark-mode-only)
+![](https://ghvc.kabelkultur.se?username=sgtflixy)
