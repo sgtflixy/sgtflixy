@@ -20,7 +20,9 @@ I am a passionate CS Student who loves using python, html and C#
 ## Programming Skills
 [![My Skills](https://skillicons.dev/icons?i=py,html,cs)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/languages.svg?token=GHSAT0AAAAAADCI5M6456OU7ACWIDQJRVNW2BCKCRA#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/languages.svg?token=GHSAT0AAAAAADHHAMZU2ZI6HM3O6LQEGP322FPJCKA#gh-dark-mode-only)
+
+
 
 ## 🌱 Currently Learning
 
@@ -28,4 +30,4 @@ I am a passionate CS Student who loves using python, html and C#
 - Learning NextJS / Typescript
 
 ## Profile stats:
-![Visitor Badge](https://profile-counter.glitch.me/sgtflixy/count.svg)
+![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADHHAMZUI4RJYJJ7BR56EQT22FPJBZA#gh-dark-mode-only)
