@@ -17,6 +17,9 @@ I am a passionate CS Student who loves using python, html and C#
 #### Infiltra FW
 - [Maintainer of site, discord server and discord bot](https://infiltra.xyz)
 
+#### Sarge
+- [Founder of hosting, creator of discord bot, lead of marketting](https://sarge.wtf)
+
 ## Programming Skills
 [![My Skills](https://skillicons.dev/icons?i=py,html,cs)](https://skillicons.dev)
 
