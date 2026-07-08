@@ -33,5 +33,5 @@ I am a passionate CS Student who loves using python, html and C#
 - Learning Java
 
 ## Profile stats:
-![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADHHAMZUI4RJYJJ7BR56EQT22FPJBZA#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAAD6QXUEXYK7SEJJ3EZOH27ZI2SOZQGA#gh-dark-mode-only)
 
