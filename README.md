@@ -30,7 +30,7 @@ I am a passionate CS Student who loves using python, html and C#
 ## 🌱 Currently Learning
 
 - Further learning about the discord API and more
-- Learning NextJS / Typescript
+- Learning Java
 
 ## Profile stats:
 ![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADHHAMZUI4RJYJJ7BR56EQT22FPJBZA#gh-dark-mode-only)
