@@ -18,7 +18,7 @@ I am a passionate CS Student who loves using python and C#
 - [Founder of hosting, creator of discord bot, lead of marketting](https://sarge.wtf)
 
 ## Programming Skills
-[![My Skills](https://skillicons.dev/icons?i=py,html,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/languages.svg?token=GHSAT0AAAAAADHHAMZU2ZI6HM3O6LQEGP322FPJCKA#gh-dark-mode-only)
 
