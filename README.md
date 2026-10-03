@@ -16,6 +16,8 @@ I am a passionate CS Student who loves using python and C#
 
 #### Sarge
 - [Founder of hosting, creator of discord bot, lead of marketting](https://sarge.wtf)
+#### SpencerTool
+- [Founder, Lead DEV](https://spencertool.sgtflixy.xyz)
 
 ## Programming Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs)](https://skillicons.dev)
