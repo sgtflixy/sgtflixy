@@ -1,7 +1,7 @@
 # Hi, I'm sgtflixy! 👋
 ![](https://ghvc.kabelkultur.se?username=sgtflixy)
 
-I am a passionate CS Student who loves using python, html and C#
+I am a passionate CS Student who loves using python and C#
 
 
 ![](https://raw.githubusercontent.com/sgtflixy/git-stats/refs/heads/master/generated/overview.svg?token=GHSAT0AAAAAADCI5M65BPSLP3NAPVXZOZWE2BCKGBA#gh-dark-mode-only)
@@ -13,9 +13,6 @@ I am a passionate CS Student who loves using python, html and C#
 - ✍️ Content creator over at tiktok [@sgtflixy](https://tiktok.com/@sgtflixy)
 
 ## Projects
-
-#### Infiltra FW
-- [Maintainer of site, discord server and discord bot](https://infiltra.xyz)
 
 #### Sarge
 - [Founder of hosting, creator of discord bot, lead of marketting](https://sarge.wtf)
